@@ -34,4 +34,13 @@ def man(self, response):
 
 def parse(self, response):
     man_descr = response.css('div.content').xpath('./span[@style="font-size: 140%; line-height: 116%;"]/span[@style="font-weight: bold"]').extract()
-    yield man_descr
+    dc_dict[] = man_descr
+
+
+dc_dict = dict()
+
+process = CrawlerProcess()
+process.crawl(LizaDno)
+process.start()
+
+dc_dict
