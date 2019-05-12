@@ -22,4 +22,5 @@ https://github.com/babkengithub/Liza-Alert/blob/master/%D0%93%D0%BE%D1%82%D0%BE%
 https://github.com/babkengithub/Liza-Alert/blob/master/Table_for_weather-LisaAlert.ipynb
 
 Я таблицу почти пустую составил, в URL переменную нужно совать область нужную. Я хочу от тебя, чтобы ты дополнил таблицу временем поиска и желательно перевести в формат день.месяц.год
-p.s. В подвале кода можешь пощупать мой (спизженный с Инета) парсер погоды с rp5
+
+p.s. В подвале кода можешь пощупать мой (stolen с Инета) парсер погоды с rp5
